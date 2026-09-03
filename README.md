@@ -14,7 +14,7 @@
 | cat | Displays the full contents of a file |
 | head -1 | Displays the first line of a file |
 | mv | Moves a file |
-| rm | Deletes a file |
+| rm | Removes a file forever |
 
 ## AI Use Statement
 I did not use AI for this lab.
